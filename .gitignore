@@ -55,9 +55,6 @@ __MACOSX/
 Thumbs.db
 
 # --- Notebook / experiment outputs ---
-notebooks/**/*.png
-notebooks/**/*.jpg
-notebooks/gfci_plots/
 outputs/
 results/
 logs/
