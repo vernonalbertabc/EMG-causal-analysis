@@ -1,0 +1,76 @@
+{
+  "noGesture": {
+    "ch1_mav": "gesture --> feature",
+    "ch1_fft_peak_freq": "gesture --> feature",
+    "ch1_fft_mean_freq": "gesture --> feature",
+    "ch2_mav": "gesture --> feature",
+    "ch2_fft_peak_freq": "gesture --> feature",
+    "ch2_fft_mean_freq": "gesture --> feature",
+    "ch3_mav": "undetermined (o-o / mark_at_label=1, mark_at_feature=1)",
+    "ch3_fft_peak_freq": "gesture --> feature",
+    "ch3_fft_mean_freq": "gesture --> feature",
+    "ch4_mav": "undetermined (o-o / mark_at_label=1, mark_at_feature=1)",
+    "ch4_fft_mean_freq": "undetermined (o-o / mark_at_label=1, mark_at_feature=1)",
+    "ch5_mav": "undetermined (o-o / mark_at_label=1, mark_at_feature=1)",
+    "ch5_fft_peak_freq": "gesture --> feature",
+    "ch5_fft_mean_freq": "gesture --> feature",
+    "ch6_mav": "gesture --> feature",
+    "ch6_fft_peak_freq": "gesture --> feature",
+    "ch6_fft_mean_freq": "gesture --> feature",
+    "ch7_mav": "gesture --> feature",
+    "ch7_fft_peak_freq": "gesture --> feature",
+    "ch7_fft_mean_freq": "gesture --> feature",
+    "ch8_mav": "gesture --> feature",
+    "ch8_fft_peak_freq": "gesture --> feature",
+    "ch8_fft_mean_freq": "gesture --> feature"
+  },
+  "open": {
+    "ch1_mav": "gesture --> feature",
+    "ch1_fft_mean_freq": "gesture --> feature",
+    "ch3_fft_mean_freq": "undetermined (o-o / mark_at_label=1, mark_at_feature=1)",
+    "ch4_fft_mean_freq": "gesture o-> feature (feature ruled out as cause)",
+    "ch5_mav": "gesture --> feature",
+    "ch7_fft_mean_freq": "gesture --> feature",
+    "ch8_fft_mean_freq": "gesture --> feature"
+  },
+  "pinch": {
+    "ch1_mav": "gesture --> feature",
+    "ch2_mav": "gesture --> feature",
+    "ch5_mav": "gesture --> feature",
+    "ch6_mav": "gesture o-> feature (feature ruled out as cause)",
+    "ch7_mav": "feature --> gesture"
+  },
+  "waveOut": {
+    "ch1_fft_peak_freq": "gesture --> feature",
+    "ch1_fft_mean_freq": "gesture --> feature",
+    "ch3_mav": "gesture --> feature",
+    "ch3_fft_mean_freq": "gesture --> feature",
+    "ch4_mav": "feature --> gesture",
+    "ch4_fft_mean_freq": "gesture --> feature",
+    "ch5_fft_peak_freq": "gesture --> feature",
+    "ch6_fft_mean_freq": "gesture --> feature",
+    "ch8_mav": "feature --> gesture",
+    "ch8_fft_mean_freq": "gesture --> feature"
+  },
+  "fist": {
+    "ch1_mav": "gesture o-> feature (feature ruled out as cause)",
+    "ch1_fft_peak_freq": "gesture --> feature",
+    "ch2_mav": "undetermined (o-o / mark_at_label=1, mark_at_feature=1)",
+    "ch3_fft_mean_freq": "gesture --> feature",
+    "ch4_mav": "gesture --> feature",
+    "ch4_fft_mean_freq": "gesture --> feature",
+    "ch5_mav": "gesture --> feature",
+    "ch8_mav": "gesture --> feature"
+  },
+  "waveIn": {
+    "ch2_mav": "gesture --> feature",
+    "ch4_mav": "gesture --> feature",
+    "ch5_mav": "undetermined (o-o / mark_at_label=1, mark_at_feature=1)",
+    "ch5_fft_mean_freq": "gesture --> feature",
+    "ch6_mav": "undetermined (o-o / mark_at_label=1, mark_at_feature=1)",
+    "ch6_fft_mean_freq": "gesture --> feature",
+    "ch7_mav": "gesture --> feature",
+    "ch7_fft_mean_freq": "gesture --> feature",
+    "ch8_mav": "undetermined (o-o / mark_at_label=1, mark_at_feature=1)"
+  }
+}
